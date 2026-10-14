@@ -1,0 +1,23 @@
+[
+  {
+    "repoName": "vuepress-theme-hope",
+    "owner": "vuepress-theme-hope",
+    "description": "A vuepress theme with tons of features",
+    "stars": 2050,
+    "starredAt": "2026-01-10T14:20:00Z"
+  },
+  {
+    "repoName": "AutoHotkey-v2",
+    "owner": "AutoHotkey",
+    "description": "AutoHotkey v2 scripting language",
+    "stars": 8200,
+    "starredAt": "2026-02-15T09:30:00Z"
+  },
+  {
+    "repoName": "umi-ocr",
+    "owner": "hiroi-sora",
+    "description": "Offline OCR tool with http api",
+    "stars": 3600,
+    "starredAt": "2026-03-22T16:10:00Z"
+  }
+]
